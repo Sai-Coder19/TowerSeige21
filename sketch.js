@@ -124,6 +124,6 @@ function mouseReleased(){
 }
 function keyPressed(){
   if(keyCode===32){
-      slingshot.attach(ball)
+      slingShot.attach(ball)
   }
 } 
